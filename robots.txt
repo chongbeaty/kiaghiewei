@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reriedaich.emoflon.org/sitemap.xml
